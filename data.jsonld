@@ -48,10 +48,10 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "abstract": "This is abstract of my first test proposal",
-    "motivation": "I like to test proposal pillar on sancho",
-    "rationale": "there is no solving problems with this proposal",
+    "abstract": "Test 2",
+    "motivation": "Test 2",
+    "rationale": "Test 3",
     "references": [],
-    "title": "My first test proposal"
+    "title": "Test 2"
   }
 }
